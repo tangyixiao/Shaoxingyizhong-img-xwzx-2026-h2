@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "2026 下半年做成园艺室旁的校园照片灯箱：三张已核对素材中，植物窗台横幅占宽面，礼堂与发言现场作为竖向辅片。苔绿、陶土与暖木色让画面像实体档案展，而不是统一蓝色相册。事实边界：仅说明新闻中心 2026 下半年路径分片；不能根据照片擅自补活动名称、获奖信息或学校官方背书。",
+    "layout": "folio",
+    "palette": {
+      "light": {
+        "bg": "#E4DDCD",
+        "surface": "#F5EFE0",
+        "ink": "#2C3E2E",
+        "muted": "#5a644f",
+        "accent": "#3d684a"
+      },
+      "dark": {
+        "bg": "#19271D",
+        "surface": "#293A2A",
+        "ink": "#EFEEDB",
+        "muted": "#afb89d",
+        "accent": "#a5c58b"
+      }
+    },
+    "threeConcept": "Three.js 建立一架暖木三槽灯箱，真实照片作为完整平面嵌入不同槽深，陶土色夹扣和背板提供空间感；不对照片人物分层或制造场景纵深。",
+    "distinctiveInteraction": "键盘或拖动切换三个灯箱槽，选中照片平移到正面；来源路径、原始尺寸和原文件链接随之更新。减少动态时使用静态三联画。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "校园活动合影，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2/blob/main/UploadFiles/xwzx/2026/8/202608201632560575.jpeg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2/blob/main/UploadFiles/xwzx/2026/8/202608201632560575.jpeg",
+      "path": "UploadFiles/xwzx/2026/8/202608201632560575.jpeg"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "现场交流，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2/blob/main/UploadFiles/xwzx/2026/9/202609030932027104.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2/blob/main/UploadFiles/xwzx/2026/9/202609030932027104.jpg",
+      "path": "UploadFiles/xwzx/2026/9/202609030932027104.jpg"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "校园植物角，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2/blob/main/UploadFiles/xwzx/2026/9/202609281627485820.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2/blob/main/UploadFiles/xwzx/2026/9/202609281627485820.jpg",
+      "path": "UploadFiles/xwzx/2026/9/202609281627485820.jpg"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
