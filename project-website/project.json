@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "name": "Shaoxingyizhong-img-xwzx-2026-h2",
+  "theme": "system",
+  "default_locale": "zh-CN",
+  "locales": [
+    {
+      "code": "zh-CN",
+      "label": "简体中文",
+      "directory": ""
+    },
+    {
+      "code": "en",
+      "label": "English",
+      "directory": "en"
+    }
+  ],
+  "release": "Shaoxingyizhong-img-xwzx-2026-h2",
+  "license_label": "Repository information",
+  "links": {
+    "repository": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2",
+    "download": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2/tree/main/UploadFiles/xwzx/2026/10",
+    "documentation": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2/blob/main/manifest.tsv",
+    "release": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2",
+    "license": "https://github.com/tangyixiao/Shaoxingyizhong/blob/main/RIGHTS.md",
+    "report_issue": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2/blob/main/manifest.tsv",
+    "suggest_feature": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2",
+    "contribute": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h2/pulls"
+  },
+  "copyright_notice": "Website template © 2026 Tang Yixiao and contributors",
+  "platforms": [
+    {
+      "name": "Shaoxingyizhong-img-xwzx-2026-h2",
+      "href": "https://tangyixiao.github.io/Shaoxingyizhong-img-xwzx-2026-h2/"
+    }
+  ]
+}
